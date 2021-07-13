@@ -76,9 +76,9 @@
   
   <ol>
 <li><a href="">상하좌우</a><p>관련백준문제</p>
-<li><a href="">시각</a><p>관련백준문제:</p></li>
-<li><a href="">왕실의 나이트</a><p>관련백준문제:</p></li>
-    <li><a href="">게임개발</a> <p>관련백준문제:</p></li>
+<li><a href="">시각</a><p>관련백준문제:https://www.acmicpc.net/problem/18312</p></li>
+<li><a href="">왕실의 나이트</a><p>관련백준문제:https://www.acmicpc.net/problem/7562</p></li>
+    <li><a href="">게임개발</a> <p>관련백준문제:https://www.acmicpc.net/problem/1516</p></li>
 </ol>
 
 
