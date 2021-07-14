@@ -1,12 +1,8 @@
 food_times = list(map(int, input().split()))
 k = int(input())
-position_change = -1
-sum = 0
+position_change = 0
+
 while k != 0:
-    for i in food_times:
-        sum += i
-    if sum ==0:
-        return -1
     now = food_times[0]
     position_change += 1
     if int(now) > 0:
@@ -22,6 +18,6 @@ while k != 0:
         food_times.append(temp)
 
 
-print(position_change//len(food_times),"end!")
+print(position_change%len(food_times)+1,"end!")
 
 #다시풀기
