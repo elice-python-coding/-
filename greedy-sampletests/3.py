@@ -7,4 +7,4 @@ for i in data:
         stan = i
         change += 1
         print('stan:',stan,'i:',i,'change:',change)
-print(change // 2)
+print(Math.ceil(change / 2))
