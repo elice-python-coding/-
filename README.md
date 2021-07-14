@@ -21,6 +21,10 @@
 <li><a href="/greedy-theory/3.py">숫자 카드 게임</a><p>관련백준문제:</p></li>
     <li><a href="/greedy-theory/4.py">1이 될때까지</a> <p>관련백준문제:https://www.acmicpc.net/problem/1463</p></li>
 </ol>
+  
+  ### 기출문제
+  ----
+  https://programmers.co.kr/learn/courses/30/lessons/42891?language=python3
 
 # 2. 구현
 
