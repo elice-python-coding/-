@@ -25,12 +25,12 @@
   ### 기출문제
   ----
   <ol>
-  <li><a href="/greedy-sampletest/1.py"></a>모험가 길드<p>관련백준문제:</p></li>
-  <li><a href="/greedy-sampletest/2.py"></a>곱하기 혹은 더하기<p>관련백준문제:</p></li>
-  <li><a href="/greedy-sampletest/3.py"></a>문자열 뒤집기<p>관련백준문제:</p></li>
-  <li><a href="/greedy-sampletest/4.py"></a>만들 수 없는 금액<p>관련백준문제:</p></li>
-  <li><a href="/greedy-sampletest/5.py"></a>볼링공 고르기<p>관련백준문제:</p></li>
-  <li><a href="/greedy-sampletest/6.py"></a>무지의 먹방 라이브<p>관련백준문제:</p></li>
+  <li><a href="/greedy-sampletest/1.py">모험가 길드</a><p>관련백준문제:</p></li>
+  <li><a href="/greedy-sampletest/2.py">곱하기 혹은 더하기</a><p>관련백준문제:</p></li>
+  <li><a href="/greedy-sampletest/3.py">문자열 뒤집기</a><p>관련백준문제:</p></li>
+  <li><a href="/greedy-sampletest/4.py">만들 수 없는 금액</a><p>관련백준문제:</p></li>
+  <li><a href="/greedy-sampletest/5.py">볼링공 고르기</a><p>관련백준문제:</p></li>
+  <li><a href="/greedy-sampletest/6.py">무지의 먹방 라이브</a><p>관련백준문제:</p></li>
   </ol>
   https://programmers.co.kr/learn/courses/30/lessons/42891?language=python3
   
